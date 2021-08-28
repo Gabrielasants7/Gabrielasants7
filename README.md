@@ -21,8 +21,6 @@
 - 🐋 MariaDB
 - 🖋️  SQLite
 - 📖 Atualmente estou aprendendo: Kotlin, Scrum, Hadoop. 
-- 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -![image](https://user-images.githubusercontent.com/89526250/131229870-0aafae92-edb8-4e34-94af-cb262c644606.png)
 ![image](https://user-images.githubusercontent.com/89526250/131229883-f886c750-2df3-48bb-afc1-f5cf226c762f.png)

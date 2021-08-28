@@ -24,11 +24,12 @@
 - 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
-<!---
+-![image](https://user-images.githubusercontent.com/89526250/131229870-0aafae92-edb8-4e34-94af-cb262c644606.png)
+![image](https://user-images.githubusercontent.com/89526250/131229883-f886c750-2df3-48bb-afc1-f5cf226c762f.png)
+![image](https://user-images.githubusercontent.com/89526250/131229891-b7d7d210-a4e4-4930-ae53-114d1b3866ee.png)
+
+
+
 Gabrielasants7/Gabrielasants7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
-
-
-<a href="https://fontmeme.com/pt/fonte-de-grand-theft-auto/"><img src="https://fontmeme.com/permalink/210825/9c09194da4e477464753b91e61429abe.png" alt="fonte-de-grand-theft-auto" border="0"></a>

@@ -10,7 +10,14 @@
 <a href="https://fontmeme.com/dragon-ball-z-font/"><img src="https://fontmeme.com/permalink/210828/8906758efb671aaa9290343316f86e1c.png" alt="dragon-ball-z-font" border="0"></a>
 
 - 🧰 Programming Languages And Tools
-- 📖 I'm Currently Learning : Kotlin, Scrum, Hadoop. 
+- ![image](https://user-images.githubusercontent.com/89526250/131229546-3425c6bc-10fe-47bf-afbd-88f6cb3df550.png)
+![image](https://user-images.githubusercontent.com/89526250/131229550-0750e502-c8cf-4a42-ae57-87609cd2344c.png)
+![image](https://user-images.githubusercontent.com/89526250/131229553-6eb1e2a6-5fd1-48b3-8713-9c640ae0b8c4.png)
+![image](https://user-images.githubusercontent.com/89526250/131229587-1449279e-d106-4bd2-8189-6f259b886f87.png)
+
+
+- 📖 Atualmente estou aprendendo: Kotlin, Scrum, Hadoop. 
+- 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 

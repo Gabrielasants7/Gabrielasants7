@@ -1,4 +1,4 @@
-- 🥰 Be Welcome!
+- ✨ Be Welcome
 
 ![de116008c08d758f9c1a6f2a6e368da8](https://user-images.githubusercontent.com/89526250/131228176-e9958b57-4c05-4266-9616-a6f8f39c8261.gif)
 
@@ -22,7 +22,10 @@
 - 📓 Google Colab
 - 🐋 MariaDB
 - 🖋️  SQLite
-- 📖 Atualmente estou aprendendo: Kotlin, Scrum, Hadoop. 
+
+
+
+- 📖 I'm currently learning: Kotlin, Scrum, Hadoop. 
 - 📫 How to reach me ...
 -![image](https://user-images.githubusercontent.com/89526250/131229870-0aafae92-edb8-4e34-94af-cb262c644606.png)
 ![image](https://user-images.githubusercontent.com/89526250/131229883-f886c750-2df3-48bb-afc1-f5cf226c762f.png)

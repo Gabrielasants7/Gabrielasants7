@@ -14,8 +14,12 @@
 ![image](https://user-images.githubusercontent.com/89526250/131229550-0750e502-c8cf-4a42-ae57-87609cd2344c.png)
 ![image](https://user-images.githubusercontent.com/89526250/131229553-6eb1e2a6-5fd1-48b3-8713-9c640ae0b8c4.png)
 ![image](https://user-images.githubusercontent.com/89526250/131229587-1449279e-d106-4bd2-8189-6f259b886f87.png)
-
-
+- 📊 Matplotlib
+- 📈 Seaborn 
+- 📉 statsmodels
+- 📓 Google Colab
+- 🐋 MariaDB
+- 🖋️  SQLite
 - 📖 Atualmente estou aprendendo: Kotlin, Scrum, Hadoop. 
 - 
 - 💞️ I’m looking to collaborate on ...

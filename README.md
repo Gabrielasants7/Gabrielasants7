@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/89526250/131229587-1449279e-d106-4bd2-8189-6f259b886f87.png)
 - 📊 Matplotlib
 - ![image](https://user-images.githubusercontent.com/89526250/131230128-742f2852-e782-4dad-a7b2-455421466f85.png)
-
+- 📊 Weka
 - 📈 Seaborn 
 - 📉 statsmodels
 - 📓 Google Colab

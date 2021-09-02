@@ -21,7 +21,7 @@
 - 📉 statsmodels
 - 📓 Google Colab
 - 🐋 MariaDB
-- 🖋️  SQLite
+
 
 
 

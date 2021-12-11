@@ -27,10 +27,7 @@
 
 - 📖 I'm currently learning: Kotlin, Scrum, Hadoop. 
 - 📫 How to reach me ...
--![image](https://user-images.githubusercontent.com/89526250/131229870-0aafae92-edb8-4e34-94af-cb262c644606.png)
-![image](https://user-images.githubusercontent.com/89526250/131229883-f886c750-2df3-48bb-afc1-f5cf226c762f.pnghttps://medium.com/@gabriellareboucas6)
-![image](https://user-images.githubusercontent.com/89526250/131229891-b7d7d210-a4e4-4930-ae53-114d1b3866ee.png)
-
-https://medium.com/@gabriellareboucas6
+- https://www.linkedin.com/in/gabriela-santana-aspirante-a-cientista-de-dados-801602201/
+   https://medium.com/@gabriellareboucas6
 
 

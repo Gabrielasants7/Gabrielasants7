@@ -2,7 +2,9 @@ Sejam todos bem vindos ao meu perfil!
 
 
 
-![de116008c08d758f9c1a6f2a6e368da8](https://user-images.githubusercontent.com/89526250/131228176-e9958b57-4c05-4266-9616-a6f8f39c8261.gif)
+![de116008c08d758f9c1a6f2a6e368da8](https://user-images.githubusercontent.com/89526250/131228176-e9958b57-4c05-4266-9616-a6f8f39c8261.gif)   <a href="https://github.com/Gabrielasants7">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dark&include_commits=true"/>
+
 
                          Me chamo 👇🏾
 
@@ -12,9 +14,7 @@ Sejam todos bem vindos ao meu perfil!
 
 
 
-  <a href="https://github.com/Gabrielasants7">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dark&include_commits=true"/>
-
+  
 
 
  🌱 Estou aprendendo:

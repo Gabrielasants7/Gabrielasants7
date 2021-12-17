@@ -18,5 +18,10 @@
 </a>
 
 
+ 🌱 Estou aprendendo:
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+
+
 
 

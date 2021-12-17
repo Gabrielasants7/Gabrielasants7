@@ -10,11 +10,6 @@
 
 
 
-
-
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
- ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
   <a href="https://github.com/Gabrielasants7">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dark&include_commits=true"/>
 </a>
@@ -23,9 +18,5 @@
 </a>
 
 
-- 📖 I'm currently learning: Kotlin, Scrum, Hadoop. 
-- 📫 How to reach me ...
-- https://www.linkedin.com/in/gabriela-santana-aspirante-a-cientista-de-dados-801602201/
-   https://medium.com/@gabriellareboucas6
 
 

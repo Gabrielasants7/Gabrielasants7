@@ -14,10 +14,7 @@ Sejam todos bem vindos ao meu perfil!
 
   <a href="https://github.com/Gabrielasants7">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dark&include_commits=true"/>
-</a>
-<a href="https://github.com/Gabrielasants7">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasants7&layout=compact&langs_count=8&theme=dark"/>
-</a>
+
 
 
  🌱 Estou aprendendo:

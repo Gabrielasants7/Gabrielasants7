@@ -46,7 +46,8 @@ Me chamo 👇🏾
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
 
- 
+ Android
+  Kotlin
  
 
 

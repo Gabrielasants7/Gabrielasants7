@@ -15,21 +15,11 @@
 <a href="https://github.com/Gabrielasants7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasants7&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-- 🧰 Programming Languages And Tools
-- ![image](https://user-images.githubusercontent.com/89526250/131229546-3425c6bc-10fe-47bf-afbd-88f6cb3df550.png)
-![image](https://user-images.githubusercontent.com/89526250/131229550-0750e502-c8cf-4a42-ae57-87609cd2344c.png)
-![image](https://user-images.githubusercontent.com/89526250/131229553-6eb1e2a6-5fd1-48b3-8713-9c640ae0b8c4.png)
-![image](https://user-images.githubusercontent.com/89526250/131229587-1449279e-d106-4bd2-8189-6f259b886f87.png)
-- 📊 Matplotlib
-- ![image](https://user-images.githubusercontent.com/89526250/131230128-742f2852-e782-4dad-a7b2-455421466f85.png)
-- 📊 Weka
-- 📈 Seaborn 
-- 📉 statsmodels
-- 📓 Google Colab
-- 🐋 MariaDB
 
 
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
 
 
 - 📖 I'm currently learning: Kotlin, Scrum, Hadoop. 

@@ -9,6 +9,13 @@
 
 <a href="https://fontmeme.com/dragon-ball-z-font/"><img src="https://fontmeme.com/permalink/210828/8906758efb671aaa9290343316f86e1c.png" alt="dragon-ball-z-font" border="0"></a>
 
+
+
+
+<a href="https://github.com/Gabrielasants7">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasants7&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 - 🧰 Programming Languages And Tools
 - ![image](https://user-images.githubusercontent.com/89526250/131229546-3425c6bc-10fe-47bf-afbd-88f6cb3df550.png)
 ![image](https://user-images.githubusercontent.com/89526250/131229550-0750e502-c8cf-4a42-ae57-87609cd2344c.png)

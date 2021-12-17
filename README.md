@@ -1,6 +1,7 @@
 Sejam todos bem vindos ao meu perfil! 
-Me chamo 👇🏾
 
+
+Me chamo 👇🏾
 
 <a href="https://fontmeme.com/dragon-ball-z-font/"><img src="https://fontmeme.com/permalink/210828/8906758efb671aaa9290343316f86e1c.png" alt="dragon-ball-z-font" border="0"></a>
 
@@ -13,8 +14,8 @@ Me chamo 👇🏾
                          
 
 
-<a href="https://github.com/Gabrielasants7">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dark&include_commits=true"/>
+             <a href="https://github.com/Gabrielasants7">
+            <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dark&include_commits=true"/>
 
   
 
@@ -27,6 +28,7 @@ Me chamo 👇🏾
 
 
 💻 Uso diário:
+
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=PostgreSQL) 
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)

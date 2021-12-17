@@ -20,6 +20,12 @@
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+  <a href="https://github.com/Gabrielasants7">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Gabrielasants7&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+<a href="https://github.com/Gabrielasants7">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasants7&layout=compact&langs_count=8&theme=dark"/>
+</a>
 
 
 - 📖 I'm currently learning: Kotlin, Scrum, Hadoop. 

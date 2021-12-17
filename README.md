@@ -8,7 +8,7 @@ Me chamo 👇🏾
 
 
 
-![de116008c08d758f9c1a6f2a6e368da8](https://user-images.githubusercontent.com/89526250/131228176-e9958b57-4c05-4266-9616-a6f8f39c8261.gif)  >
+![de116008c08d758f9c1a6f2a6e368da8](https://user-images.githubusercontent.com/89526250/131228176-e9958b57-4c05-4266-9616-a6f8f39c8261.gif)  
 
 
                          

@@ -1,8 +1,5 @@
 Sejam todos bem vindos ao meu perfil!  Me chamo , Gabriela Rebouças 
-onde me encontrar : 
 
-<a href = "gabriellareboucas6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriela-santana-aspirante-a-cientista-de-dados-801602201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank
 
 
 ![de116008c08d758f9c1a6f2a6e368da8](https://user-images.githubusercontent.com/89526250/131228176-e9958b57-4c05-4266-9616-a6f8f39c8261.gif)

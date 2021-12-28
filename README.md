@@ -1,7 +1,7 @@
 Sejam todos bem vindos ao meu perfil! 
 
 
-Me chamo 👇🏾
+
 
 
 

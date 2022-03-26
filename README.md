@@ -27,6 +27,6 @@ Hobby 👇🏾 🏊🏾‍♀️🧘🏾‍♀️ 🚵🏾‍♀️ 🎮
 
 
 Cooking, Reading, Dancing, Traveling, Watching Movies, Series, 
-
+anime
 
 cycling, diving,To write,Play video games, Meditate,chess,Assemble puzzle,build Legos,Play with Arduino...

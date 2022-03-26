@@ -16,7 +16,7 @@ Since I was a child I was fascinated by computers, even without being able to ha
   
   
   
-  Languages And Tools 👇🏽🔧💻
+<h3 align="left">Languages And Tools:</h3>   👇🏽🔧💻
   
   
   
@@ -24,7 +24,12 @@ Since I was a child I was fascinated by computers, even without being able to ha
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />   <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />    <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />   
 
 
-Hobby 👇🏾 🏊🏾‍♀️🧘🏾‍♀️ 🚵🏾‍♀️ 🎮
+
+
+
+
+
+ <h3 align="left">Hobby:</h3> 👇🏾 🏊🏾‍♀️🧘🏾‍♀️ 🚵🏾‍♀️ 🎮
 
 
 
@@ -34,10 +39,38 @@ anime
 cycling, diving,To write,Play video games, Meditate,chess,Assemble puzzle,build Legos,Play with Arduino...
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriela santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela santana" height="30" width="40" /></a>
-  
+   <p align="left">
+<a href="https://instagram.com/@dadossimplificados" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dadossimplificados" height="30 " width="40" /></a>
+
+  <p align="left">
+<a href="https://medium.com/@gabriellareboucas6" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabriellareboucas6" height="30 " width="40" /></a>
+</p>
+
+<p align="left">
+<a href="https://www.hackerrank.com/gabriellarebouc1" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gabriellarebouc1" height="30 " width="40" /></a>
+</p>
+    
+     
+     
+
+        
+
 
 
 

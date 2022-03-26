@@ -32,3 +32,16 @@ Cooking, Reading, Dancing, Traveling, Watching Movies, Series,
 anime
 
 cycling, diving,To write,Play video games, Meditate,chess,Assemble puzzle,build Legos,Play with Arduino...
+
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gabriela santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriela santana" height="30" width="40" /></a>
+<a href="https://instagram.com/@dadossimplificados" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dadossimplificados" height="30" width="40" /></a>
+<a href="https://medium.com/@gabriellareboucas6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/medium.svg" alt="@gabriellareboucas6" height="30" width="40" /></a>
+<a href="https://www.hackerrank .com/gabriellarebouc1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /hackerrank.svg" alt="gabriellarebouc1" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme -stats.vercel.app/api/top-langs?username=gabrielasants7&show_icons=true&locale=en&layout=compact" alt="gabrielasants7" /></p>
+
+

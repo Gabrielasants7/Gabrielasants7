@@ -69,7 +69,7 @@ cycling, diving,To write,Play video games, Meditate,chess,Assemble puzzle,build 
 
         
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasants7)](https://github.com/anuraghazra/github-readme-stats)                        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielasants7)](https://github.com/anuraghazra/github-readme-stats)       ![GitHub metrics](https://metrics.lecoq.io/Gabrielasants7)                   
 
 
 

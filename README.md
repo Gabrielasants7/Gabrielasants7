@@ -1,9 +1,11 @@
+### Hi there , 👋🏾my name is Gabriela
+#### I am GitHub Readme Generator's creator
 welcome!
 
-Since I was a child I was fascinated by computers, even without being able to have one, I remember spending hours at LAN-HOUSE, curious to know what tools were behind each technology I used, when asked what I wanted to be, the answer was always the same: "I want to build", but not in the civil construction sector, but in technology, along the way I took some courses in the area of ​​Back-end, Hardware, but I found myself in the data area, I always alluded to data with LEGOS, another childhood fascination.
-LEGOS are several random pieces before you assemble what you have in mind, after assembled it looks like information, just like data after processed, it becomes information relevant to companies.
-This passion for Data led me to seek training in the area in question, I am currently studying at the Cruzeiro do Sul Institution, and at the same time, I am always reading, watching and taking courses related to the area: Programming Logic, Data Structure, Big Data, PowerBI, AWS, Python, R, Database, Statistics, Logistic Regression, Linear Regression, Algebra, Artificial Intelligence and its Subfields.
-In summary, at the moment, I am an aspiring data scientist, who believes that the power of data added to the democratization of access to quality education will revolutionize the world.
+Since I was a child I was fascinated by computers, even without being able to have one, I remember spending hours at LAN-HOUSE, curious to know what tools were behind each technology I used, when asked what I wanted to be, the answer was always the same: "I want to build", but not in the civil construction sector, but in technology, along the way I took some courses in the area of ​​Back-end, Hardware, but I found myself in the data area, I always alluded to data with LEGOS, another childhood fascination. LEGOS are several random pieces before you assemble what you have in mind, after assembled it looks like information, just like data after processed, it becomes information relevant to companies. This passion for Data led me to seek training in the area in question, I am currently studying at the Cruzeiro do Sul Institution, and at the same time, I am always reading, watching and taking courses related to the area: Programming Logic, Data Structure, Big Data, PowerBI, AWS, Python, R, Database, Statistics, Logistic Regression, Linear Regression, Algebra, Artificial Intelligence and its Subfields. In summary, at the moment, I am an aspiring data scientist, who believes that the power of data added to the democratization of access to quality education will revolutionize the wo...
+
+
+
 
   
 

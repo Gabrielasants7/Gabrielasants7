@@ -24,5 +24,10 @@ In summary, at the moment, I am an aspiring data scientist, who believes that th
 
 
 Hobby 👇🏾 🏊🏾‍♀️🧘🏾‍♀️ 🚵🏾‍♀️ 🎮
-Cooking, Reading, Dancing, Traveling, Watching Movies, Series, Anime
+
+
+
+Cooking, Reading, Dancing, Traveling, Watching Movies, Series, 
+
+
 cycling, diving,To write,Play video games, Meditate,chess,Assemble puzzle,build Legos,Play with Arduino...

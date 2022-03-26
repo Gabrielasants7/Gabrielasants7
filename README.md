@@ -34,9 +34,7 @@ Since I was a child I was fascinated by computers, even without being able to ha
 
 
 Cooking, Reading, Dancing, Traveling, Watching Movies, Series, 
-anime
-
-cycling, diving,To write,Play video games, Meditate,chess,Assemble puzzle,build Legos,Play with Arduino...
+Anime,Cycling, Diving,To write,Play video games, Meditate,Chess,Assemble puzzle,Build Legos,Play with Arduino...
 
 
 
@@ -56,9 +54,7 @@ cycling, diving,To write,Play video games, Meditate,chess,Assemble puzzle,build 
                  
                  
 <a href="https://medium.com/@gabriellareboucas6" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabriellareboucas6" height="30 " width="40" /></a>
-</p>
-
-<p align="left">
+</p><p align="left">
 <a href="https://www.hackerrank.com/gabriellarebouc1" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gabriellarebouc1" height="30 " width="40" /></a>
 </p>
     

@@ -6,9 +6,9 @@ welcome!
 Since I was a child I was fascinated by computers, even without being able to have one, I remember spending hours at LAN-HOUSE, curious to know what tools were behind each technology I used, along the way I took some courses in Back-end, Hardware, but I found myself in data science, I always compare data to LEGOS, another childhood fascination. LEGOS are several random pieces before you assemble what you have in mind, after assembled it looks like information, just as data after processed becomes information relevant to companies. This passion for Data led me to seek training in the area in question, I am currently studying at the Cruzeiro do Sul Institution, and at the same time, I am always reading, watching and taking courses related to the area: Programming Logic, Structure, Big Data, PowerBI , AWS, Python, R, Database, Statistics, Logistic Regression, Linear Regression, Algebra, Artificial Intelligence and its subfields. In summary, at the moment, I am an aspiring data scientist, who believes that the power of data plus the democratization of access to quality education will revolutionize the world.
   
 
-  ![Rosa e Roxo Jogo Controle Twitch Banner](https://user-images.githubusercontent.com/89526250/150660542-7b36a413-0b92-4875-86c9-d75f4236c8dd.png)
 
-  
+  ![Gabriela rebouças](https://user-images.githubusercontent.com/89526250/160305616-b3589d1f-e664-40d3-a71c-d51ff8154ac9.png)
+
   
   
   

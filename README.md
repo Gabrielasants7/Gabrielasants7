@@ -51,7 +51,6 @@ Anime,Cycling, Diving,To write,Play video games, Meditate,Chess,Assemble puzzle,
                  
                  
 <a href="https://medium.com/@gabriellareboucas6" target="blank"><img align= "center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@gabriellareboucas6" height="30 " width="40" /></a>
-</p><p align="left">
 <a href="https://www.hackerrank.com/gabriellarebouc1" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gabriellarebouc1" height="30 " width="40" /></a>
 </p>
     

@@ -11,7 +11,7 @@ Since I was a child I was fascinated by computers, even without being able to ha
   
   
   - 🌱 I’m currently learning Power Bi 
-  - 📫 How to reach me: gabriella6@gmail.com 
+  - 📫 How to reach me: Gabriellareboucas6@gmail.com
   - ⚡ Fun fact: I won a math olympiad 
 
   

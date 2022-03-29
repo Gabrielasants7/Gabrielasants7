@@ -61,3 +61,7 @@ Anime,Cycling, Diving,To write,Play video games, Meditate,Chess,Assemble puzzle,
 
 
 
+
+
+
+![Profile views](https://gpvc.arturio.dev/Gabrielasants7)  

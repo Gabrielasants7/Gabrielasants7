@@ -10,7 +10,7 @@ Since I was a child I was fascinated by computers, even without being able to ha
   ![Gabriela rebouças](https://user-images.githubusercontent.com/89526250/160305616-b3589d1f-e664-40d3-a71c-d51ff8154ac9.png)
   
   
-  -H  🌱 I’m currently learning Power Bi , Linux,HQL 
+  - 🌱 I’m currently learning Power Bi , Linux, HQL
   - 📫 How to reach me: Gabriellareboucas6@gmail.com
   - ⚡ Fun fact: I won a math olympiad 
 

@@ -12,10 +12,7 @@ Since I was a child I was fascinated by computers, even without being able to ha
   
   - 🌱 I’m currently learning Power Bi , Linux, HQL
   - 📫 How to reach me: Gabriellareboucas6@gmail.com
-  - ⚡ Fun fact: I won a math olympiad 
-
-  
-  
+  - ⚡ Fun fact: I won a  math championship
   
   
   

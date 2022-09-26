@@ -1,5 +1,5 @@
-### OLÁ, SEJAM BEM-VINDOS 🦄
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+### HELLO! WELCOME 🦄
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 ```kotlin
 object **GABRIELA** {
@@ -10,6 +10,18 @@ object **GABRIELA** {
  val languages = listOf("Kotlin", "Python", "R")
  }
 ```
+- About 👇🏽
+
+
+Associate data scientist passionate about combining technical skills and business mindset, to solve challenging problems and generate recommendations.
+
+TECHNICAL SKILLS: Recommendation System, Supervised (Classification, Regression) & Unsupervised (Clustering) Learning, Natural Language Processing, Web Scraping.
+
+LIBRARIES PYTHON : Pandas, Numpy, NLTK, Scikit-learn, Scipy, Seaborn, Matplotlib, Plotly, Sweetviz, Flask, Requests, newspaper3k, wordcloud, Statsmodels ,Beautiful Soup.
+
+I'M LEARNING AT THE MOMENT: TensorFlow, Spark.
+
+LIBRARIES R : dplyr, ggplot2, mlr3,RCrawler.
 
 
 - And My Badges [Credly](https://www.credly.com/earner/earned)
@@ -19,7 +31,7 @@ object **GABRIELA** {
 
 
 
-  <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+  <h3> :earth_americas: &nbsp;where to find me: </h3> 
 
 <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=gabriela-santana-801602201/" /></a>

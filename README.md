@@ -12,7 +12,7 @@ object **GABRIELA** {
 ```
 
 
-
+- And My Badges [Credly](https://www.credly.com/earner/earned)
 
 ![Rosa e Roxo Jogo Controle Twitch Banner (1)](https://user-images.githubusercontent.com/89526250/179100349-97aabd6d-c757-48e0-ac78-0cb55cfceeff.png)
 

@@ -38,3 +38,9 @@ LIBRARIES R : dplyr, ggplot2, mlr3,RCrawler.
   
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabriellareboucas6@gmail.com" /></a>
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gabrielasants7&label=Profile%20views&color=0e75b6&style=flat" alt="Gabrielasants7" /> </p>

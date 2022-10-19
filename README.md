@@ -13,7 +13,7 @@ object **GABRIELA** {
 - About 👇🏽
 
 
-Associate data scientist passionate about combining technical skills and business mindset, to solve challenging problems and generate recommendations.
+ data scientist passionate about combining technical skills and business mindset, to solve challenging problems and generate recommendations.
 
 TECHNICAL SKILLS: Recommendation System, Supervised (Classification, Regression) & Unsupervised (Clustering) Learning, Natural Language Processing, Web Scraping.
 

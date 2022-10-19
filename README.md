@@ -26,16 +26,12 @@ LIBRARIES R : dplyr, ggplot2, mlr3,RCrawler.
 
 - And My Badges [Credly](https://www.credly.com/earner/earned)
 
-![Rosa e Roxo Jogo Controle Twitch Banner (1)](https://user-images.githubusercontent.com/89526250/179100349-97aabd6d-c757-48e0-ac78-0cb55cfceeff.png)
-
 
 
 
   <h3> :earth_americas: &nbsp;where to find me: </h3> 
 
-<a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=gabriela-santana-801602201/" /></a>
-  
+
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabriellareboucas6@gmail.com" /></a>
 

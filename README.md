@@ -12,15 +12,14 @@ object **GABRIELA** {
 ```
 - About 👇🏽
 
-
+Hello, my name is Gabriela, I have a degree in data science and I am currently doing another degree in artificial intelligence.
  data scientist passionate about combining technical skills and business mindset, to solve challenging problems and generate recommendations.
 
 TECHNICAL SKILLS: Recommendation System, Supervised (Classification, Regression) & Unsupervised (Clustering) Learning, Natural Language Processing, Web Scraping.
 
 LIBRARIES PYTHON : Pandas, Numpy, NLTK, Scikit-learn, Scipy, Seaborn, Matplotlib, Plotly, Sweetviz, Flask, Requests, newspaper3k, wordcloud, Statsmodels ,Beautiful Soup.
 
-I'M LEARNING AT THE MOMENT: TensorFlow, Spark.
-
+I'M LEARNING AT THE MOMENT:  Guardian , and preparing for Microsoft Certified: Azure Data Scientist Associate certification
 LIBRARIES R : dplyr, ggplot2, mlr3,RCrawler.
 
 

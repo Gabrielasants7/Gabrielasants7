@@ -12,10 +12,10 @@ object **GABRIELA** {
 ```
 - About 👇🏽
 
-Hello, my name is Gabriela, I have a degree in data science and I am currently doing another degree in artificial intelligence.
- data scientist passionate about combining technical skills and business mindset, to solve challenging problems and generate recommendations.
- I have skills on how to interpret business problems into analytical solutions using consulting skills, skills I acquired through courses, training, IBM certifications and my degrees.
-I am currently studying an MBA in Compliance and Fraud Investigation, and one of the disciplines in my curriculum is Corporate Ethics and Fraud Prevention. This gives me a strong commitment to compliance and corporate ethics. I am able to identify and manage risks and am always looking for ways to prevent fraud. 
+Hello, my name is Gabriela, I have a degree in data science and artificial intelligence.
+   Data scientist passionate about combining technical skills and business mindset to solve challenging problems and generate recommendations.
+   I have skills on how to interpret business problems into analytical solutions using consulting skills, skills I acquired through courses, training, IBM certifications and my degrees.
+I am currently studying an MBA in Compliance and Fraud Investigation, and one of the disciplines in my curriculum is Corporate Ethics and Fraud Prevention. This gives me a strong commitment to compliance and corporate ethics. I am able to identify and manage risks and am always looking for ways to prevent fraud.
 I am also an ardent supporter of ethics and integrity.
 
 TECHNICAL SKILLS: Recommendation System, Supervised (Classification, Regression) & Unsupervised (Clustering) Learning, Natural Language Processing, Web Scraping.

@@ -26,8 +26,9 @@ TECHNICAL SKILLS: Recommendation System, Supervised (Classification, Regression)
 
 LIBRARIES PYTHON : Pandas, Numpy, NLTK, Scikit-learn, Scipy, Seaborn, Matplotlib, Plotly, Sweetviz, Flask, Requests, newspaper3k, wordcloud, Statsmodels ,Beautiful Soup.
 
-I'M LEARNING AT THE MOMENT:  Guardian , and preparing for Microsoft Certified: Azure Data Scientist Associate certification
+I'M LEARNING AT THE MOMENT:  Corporate governance, vulnerability analysis and risk mitigation, analysis of economic scenarios and strategic applications, data collection and analysis in fraud investigation, generative AI, DevOps.
 
+I'm working on a data visualization project in JAVA, (I'll post it here soon) in addition to creating a Customer Relationship Management System.
 
 LIBRARIES R : dplyr, ggplot2, mlr3,RCrawler.
 

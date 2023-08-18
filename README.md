@@ -3,7 +3,7 @@
 
 ```kotlin
 object **GABRIELA** {
- val name = "GABRIELA REBOUÇAS"
+ val name = "GABRIELA SANTANA"
  val acknowledgements = "CIÊNCIA DE DADOS"
  
  val primarySkillset = "Capacidade de resolver problemas"
